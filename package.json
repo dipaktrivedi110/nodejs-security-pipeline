@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-security-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipaktrivedi110/nodejs-security-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dipaktrivedi110/nodejs-security-pipeline/issues"
+  },
+  "homepage": "https://github.com/dipaktrivedi110/nodejs-security-pipeline#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  }
+}
